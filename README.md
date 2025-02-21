@@ -6,3 +6,4 @@
 |    |Topic|成绩|
 |----|---|---|
 |HW1|Regression|Boss|
+|HW2|Classification|Boss|
