@@ -7,3 +7,5 @@
 |----|---|---|
 |HW1|Regression|Boss|
 |HW2|Classification|Boss|
+|HW3|CNN|Boss|
+
