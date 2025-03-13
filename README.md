@@ -8,4 +8,5 @@
 |HW1|Regression|Boss|
 |HW2|Classification|Boss|
 |HW3|CNN|Boss|
+|HW4|Self-attention|Boss|
 
