@@ -5,8 +5,9 @@
 
 |    |Topic|成绩|
 |----|---|---|
-|HW1|Regression|Boss|
-|HW2|Classification|Boss|
-|HW3|CNN|Boss|
-|HW4|Self-attention|Boss|
+|HW1|Regression|Boss(Kaggle)|
+|HW2|Classification|Boss(Kaggle)|
+|HW3|CNN|Boss(Kaggle)|
+|HW4|Self-attention|Boss(Kaggle)|
+|HW5|Transformer|Boss(验证集)|
 
