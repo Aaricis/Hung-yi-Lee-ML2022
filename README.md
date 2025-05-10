@@ -12,3 +12,4 @@
 |HW5|Transformer|Boss|
 |HW6|GAN|Boss|
 |HW7|BERT|Boss|
+|HW8|Autoencoder|Boss|
