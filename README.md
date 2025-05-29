@@ -15,3 +15,4 @@
 |HW8|Autoencoder|Boss|
 |HW9|Explainable AI|10/10|
 |HW10|Attack|—|
+|HW11|Adaptation|Boss|
