@@ -16,3 +16,4 @@
 |HW9|Explainable AI|10/10|
 |HW10|Attack|—|
 |HW11|Adaptation|Boss|
+|HW12|RL|Boss|
