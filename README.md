@@ -18,3 +18,4 @@
 |HW11|Adaptation|Boss|
 |HW12|RL|Boss|
 |HW13|Compression|Boss|
+|HW14|Life-long|10/10|
