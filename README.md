@@ -13,7 +13,7 @@
 
 ## Scoreboard
 
-|    |Topic|Task|Public Score|Private Score|成绩|
+|    |Topic|Task|Public Score|Private Score|成绩（Kaggle）|
 |----|---|---|---|---|---|
 |HW1|Regression|COVID-19 Cases Prediction|0.87755|0.85233|Boss|
 |HW2|Classification|MFCC Classification|0.83055|0.83148|Boss|
